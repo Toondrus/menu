@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1711041274 source:d:\2-1\main.c
+	<windows.h>
+	<gl/gl.h>
+	<string.h>
+
